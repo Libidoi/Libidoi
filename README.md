@@ -26,3 +26,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Libidoi&layout=compact)](https://github.com/Libidoi/github-readme-stats)
 
+
+![](https://raw.githubusercontent.com/111210098/111210098/main/assets/github-contribution-grid-snake.svg)
+
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/github-contribution-grid-snake.svg" /></div>
