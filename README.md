@@ -30,3 +30,5 @@ Here are some ideas to get you started:
 ![](https://raw.githubusercontent.com/Libidoi/Libidoi/main/assets/github-contribution-grid-snake.svg)
 
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/Libidoi/Libidoi/assets/github-contribution-grid-snake.svg" /></div>
+
+[![Sunshine's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Libidoi&theme=xcode)](https://github.com/Libidoi)
