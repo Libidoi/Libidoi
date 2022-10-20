@@ -10,6 +10,7 @@
 <!--
 **Libidoi/Libidoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -26,9 +27,9 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Libidoi&layout=compact)](https://github.com/Libidoi/github-readme-stats)
 
-
 ![](https://raw.githubusercontent.com/Libidoi/Libidoi/main/assets/github-contribution-grid-snake.svg)
 
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/Libidoi/Libidoi/assets/github-contribution-grid-snake.svg" /></div>
+
+
 
 [![Sunshine's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Libidoi&theme=xcode)](https://github.com/Libidoi)
