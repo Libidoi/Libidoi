@@ -8,6 +8,7 @@
 <!--访客数据统计-->
 <img src="https://visitor-badge.glitch.me/badge?page_id=Libidoi" alt="访客统计" /></div>
 
+![](https://raw.githubusercontent.com/Libidoi/Libidoi/main/assets/github-contribution-grid-snake.svg)
 
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/Libidoi/Libidoi/contribution-snake/github-contribution-grid-snake.svg" /></div>
 
