@@ -10,7 +10,7 @@
 
 ![](https://raw.githubusercontent.com/Libidoi/Libidoi/main/assets/github-contribution-grid-snake.svg)
 
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/Libidoi/Libidoi/contribution-snake/github-contribution-grid-snake.svg" /></div>
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
